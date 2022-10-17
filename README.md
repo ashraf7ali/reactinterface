@@ -1,3 +1,7 @@
+# React app to make aappointments and view all appointments made
+
+Performing CRUD operataions & utilizing hooks feature from 
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
