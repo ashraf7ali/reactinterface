@@ -1,6 +1,6 @@
 # React app to make aappointments and view all appointments made
 
-Performing CRUD operataions & utilizing hooks feature from 
+Performing CRUD operataions & utilizing hooks from React.
 
 # Getting Started with Create React App
 
